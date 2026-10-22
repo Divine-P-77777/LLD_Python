@@ -19,3 +19,4 @@ Behavioral patterns are all about how objects talk to each other and work togeth
 They help you organize the way information flows between different parts of your code.
 These patterns make complicated interactions simpler by establishing clear rules for how objects should communicate an ehave with one another.
 Behavioral patterns help you manage how objects relate to each other and define communication rules that keep your code flexible and loosely connected.
+Difficult to maintain	Easier to extend and maintain
