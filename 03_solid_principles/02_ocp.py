@@ -10,6 +10,7 @@
 class PaymentProcessor:
     def pay(self,payment_method:str,amount:int):
         if payment_method == "UPI":
+
             if payment_method == "UPI":
                 print(f"Starting UPI transaction of Rs. {amount}")
                 print("UPI transaction finished")
